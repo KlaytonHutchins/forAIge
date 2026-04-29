@@ -19,8 +19,8 @@ No account. No backend. No wasted food.
 **Prerequisites:** Node.js 18+ and an [Anthropic API key](https://console.anthropic.com/).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/foraige.git
-cd foraige
+git clone https://github.com/KlaytonHutchins/forAIge.git
+cd forAIge
 npm install
 npm run dev
 ```
